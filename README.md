@@ -21,7 +21,7 @@ Once that is complete, the app will output transaction hash, text's owner and IP
 
 ### Deployed Contracts: Rinkeby Testnet
 The author of this repo has deployed a test version of the protocol on Rinkeby Testnet.
-Please see [deployed_address.md](https://github.com/solangegueiros/proof-of-existence-dapp/blob/master/README.deployed_address) for more details.
+Please see [deployed_address.md](https://github.com/solangegueiros/InTheStars/blob/master/src/ethereum/deployed_addresses.txt) for more details.
 
 
 ## Running the app successfully
@@ -75,9 +75,9 @@ Please see [deployed_address.md](https://github.com/solangegueiros/proof-of-exis
 
 ## Docs 
 
-- [Deployed addresses](https://github.com/solangegueiros/writteninthestars/blob/master/src/ethereum/deployed_addresses.txt)
-- [Design pattern decisions](https://github.com/solangegueiros/writteninthestars/blob/master/src/ethereum/design_pattern_decisions.md)
-- [Avoiding common attacks](https://github.com/solangegueiros/writteninthestars/blob/master/src/ethereum/avoiding_common_attacks.md)
+- [Deployed addresses](https://github.com/solangegueiros/InTheStars/blob/master/src/ethereum/deployed_addresses.txt)
+- [Design pattern decisions](https://github.com/solangegueiros/InTheStars/blob/master/src/ethereum/design_pattern_decisions.md)
+- [Avoiding common attacks](https://github.com/solangegueiros/InTheStars/blob/master/src/ethereum/avoiding_common_attacks.md)
 
 ### Coding Guides
 - [http://solidity.readthedocs.io/en/develop/style-guide.html](http://solidity.readthedocs.io/en/develop/style-guide.html)
